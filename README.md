@@ -33,7 +33,6 @@ Background in graphic design since 2015. Currently focused on creating tech tool
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amalzulkipli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalzulkipli&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
